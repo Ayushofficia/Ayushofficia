@@ -11,18 +11,13 @@
 
 ![Logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)
 ## About Me
-👩‍💻 I'm currently working on EDA on python integrated with My SQl
+👩‍💻 Currently working on EDA in Python integrated with MySQL.
 
-🧠 I'm currently learning Machine Learning
+🧠 Actively learning Machine Learning.
 
+📫 Can be reached at: ayushsaxenamasai@gmail.com
 
-
-📫 How to reach me... ayushsaxenamasai@gmail.com
-
-
-
-⚡️ Interest... Badminton,Continious Learning,Jogging
-
+⚡️ Interests: Badminton, Continuous Learning, Jogging
 
 ## 🛠 Skills
 Excel | Python | MySQL | Ms PowerBi | Pandas  | Numpy | Matplotlib | Seaborn | Scikit_learn
